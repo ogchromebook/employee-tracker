@@ -91,8 +91,6 @@ How to Contribute
 
     ```bash
 
-    Copy code
-
     `git checkout -b feature-branch`
     
 3.  **Make Changes**: Implement your changes and test them thoroughly.
