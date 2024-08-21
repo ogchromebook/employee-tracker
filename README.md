@@ -89,11 +89,11 @@ How to Contribute
 1.  **Fork the Repository**: Create a copy of the repository on your GitHub account.
 2.  **Create a New Branch**:
 
-    bash
+    ```bash
 
     Copy code
 
     `git checkout -b feature-branch`
-
+    
 3.  **Make Changes**: Implement your changes and test them thoroughly.
 4.  **Submit a Pull Request**: Push your changes and create a pull request to merge them into the main repository.
