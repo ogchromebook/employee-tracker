@@ -25,7 +25,7 @@ Installation
 1.  **Clone the Repository**:
 
     ```bash
-    `git clone <repository-url>`
+    `git clone <https://github.com/ogchromebook/employee-tracker>`
 2.  **Navigate to the Project Directory**:
 
     ```bash
@@ -59,7 +59,7 @@ Usage
 Credits
 -------
 
--   **Developer**: [Sam Kachergius](https://github.com/your-github-profile)
+-   **Developer**: [Sam Kachergius](https://github.com/ogchromebook)
 -   **Database**: PostgreSQL
 -   **CLI Library**: [Inquirer.js](https://www.npmjs.com/package/inquirer)
 -   **Tutorials**: Various tutorials and documentation on Node.js and PostgreSQL
